@@ -2,7 +2,7 @@
 ![Visitors: 150K+](https://img.shields.io/badge/Visitors-150K+-ff9f43) ![Subscribers: 80K+](https://img.shields.io/badge/Subscribers-80K+-6ab04c) ![Last Updated: June 2025](https://img.shields.io/badge/Last_Updated-June_2025-3498db)  
 
 
-![Valorant Enhancement Tools Banner](https://i.ytimg.com/vi/b1ZcxHM3nUU/maxresdefault.jpg)  
+![Valorant Enhancement Tools Banner](https://i.ytimg.com/vi/Ku_pJZVQXFE/maxresdefault.jpg)  
 
 **Description**: Dominate **Valorant** with **Valorant Enhancement Tools 2025**! This repository offers comprehensive tutorials, guides, and resources for the free version, enhancing gameplay with tools like aim assistance, visibility enhancements, trigger assistance, and strategic overlays for competitive play. Join our community with 100K+ downloads and 60K+ subscribers to master Valorant in 2025!  [](https://www.youtube.com/watch?v=b1ZcxHM3nUU)
 
